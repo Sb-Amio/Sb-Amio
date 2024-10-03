@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sb-Amio
+- 👋 Hi, I’m @Sb_Amio
 - 👀 I’m interested in Programming,  Photography, Videography, Badminton, Gardening
 - 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
