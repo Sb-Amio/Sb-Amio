@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. Email: sbamio201@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Facebook: ... https://www.facebook.com/
+- ⚡ 
 
 <!---
 Sb-Amio/Sb-Amio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
